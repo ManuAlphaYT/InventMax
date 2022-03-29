@@ -3,9 +3,9 @@
 const CACHE_NAME = 'v1_pwa_basic',
   urlsToCache = [
     './',
-    './style.css',
+    './css/style.css',
     './script.js',
-    './img/pwa.jpeg',
+    './img/logo.png',
     './img/favicon.png'
   ]
 
